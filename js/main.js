@@ -69,7 +69,7 @@ function landingRange(count) {
 landingArrows.forEach(arrow => {
   arrow.onclick = () => {
     count++;
-      arrow.parentNode.style.backgroundImage = `url("../../../assets/landing-${landingRange(count)}.png")`;
+      arrow.parentNode.style.backgroundImage = `url("../../../assets/landing-${landingRange(count)}.webp")`;
   }
 })
 
