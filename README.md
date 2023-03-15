@@ -17,8 +17,8 @@ This is the second template after learning Html , CSS & JS
 
 ### Links
 
-- Solution on github: [here](https://github.com/mahmood601/Kasper_Template%20Two)
-- Live Site: [here](https://mahmood601.github.io/Kasper_Template%20Two)
+- Code on github: [here](https://github.com/mahmood601/Kasper/)
+- Live Site: [here](https://mahmood601.github.io/Kasper/)
 
 ## My process 
 
