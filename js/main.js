@@ -179,3 +179,10 @@ function increaseWidth(element) {
   const prog = element.dataset.progress;
   element.style.width = prog;
 }
+
+// Footer Date 
+let element = document.querySelector("footer .copyright b");
+
+let date = new Date();
+
+element.textContent = date.getFullYear()
