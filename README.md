@@ -17,8 +17,7 @@ This is the second template after learning Html & CSS
 
 ### Links
 
-- Solution on github: [here](https://github.com/mahmood601/nft-preview-card-component-main)
-- Live Site: [here](https://mahmood601.github.io/nft-preview-card-component-main)
+- Live Site: [here](https://mahmood601.github.io/kasper)
 
 ## My process 
 
