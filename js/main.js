@@ -38,7 +38,7 @@ landingBullets.forEach(button => {
         index = i + 1;
       }
     }
-    button.parentNode.parentNode.style.backgroundImage = `url("../../../assets/landing-${index}.webp")`;
+    button.parentNode.parentNode.style.backgroundImage = `url("../../../assets/landing-${index}.png")`;
   }
 })
 
@@ -69,7 +69,7 @@ function landingRange(count) {
 landingArrows.forEach(arrow => {
   arrow.onclick = () => {
     count++;
-      arrow.parentNode.style.backgroundImage = `url("../../../assets/landing-${landingRange(count)}.webp")`;
+      arrow.parentNode.style.backgroundImage = `url("../../../assets/landing-${landingRange(count)}.png")`;
   }
 })
 

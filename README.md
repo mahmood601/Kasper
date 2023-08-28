@@ -13,39 +13,38 @@
 ## Overview 
 
 ### The template
-This is the second template after learning Html , CSS & JS
+This is the second template after learning Html & CSS
 
 ### Links
 
-- Code on github: [here](https://github.com/mahmood601/Kasper/)
-- Live Site: [here](https://mahmood601.github.io/Kasper/)
+- Solution on github: [here](https://github.com/mahmood601/nft-preview-card-component-main)
+- Live Site: [here](https://mahmood601.github.io/nft-preview-card-component-main)
 
 ## My process 
 
 ### Built with
 
 - CSS custom properties
-- Javascript powerful
+- SCSS Technology
 - Flexbox
 - Mobile-first workflow
+- Grid system
 
 ### What I learned
 
-- Make a simple advanced project
-- Use ES6, DOM, BOM, Events
+- use variable
+- Build a correct scss structure
 - Write a clean code 
-- Make animation using data-~() attribute
 
 ### Important Resources
-
 - [Graphberry](http://www.graphberry.com)
-- [Elzero Web School](https://elzero.org) - This website help people to learn programming and web developement by Mr Osama Mohammad
 
 ### Useful resources
 
+- [Elzero Web School](https://elzero.org) - This website help people to learn programming and web developement by Mr Osama Mohammad
 - [CSS Tricks](https://css-tricks.com) - This is an amazing website for learning CSS in professional way
+- [SCSS Language](https://sass-lang.com) - The primary website for scss & sass langu
 - [Google Fonts](https://fonts.google.com)
-- [MDN](https://developer.mozilla.org)
 
 ## Author
 

@@ -232,7 +232,7 @@ header .container nav .form .search {
   width: 100vw;
   position: relative;
   background-color: #1f2021;
-  background-image: url("../assets/landing-2.webp");
+  background-image: url("../../../assets/landing-2.png");
   background-size: cover;
   background-repeat: no-repeat;
   transition: .5s;
@@ -375,7 +375,7 @@ header .container nav .form .search {
   height: 600px;
   padding-top: 100px;
   padding-bottom: 100px;
-  background-image: url("../assets/design-features.webp");
+  background-image: url("../../../assets/design-features.jpg");
   background-position: cover;
   align-items: center;
   position: relative;
@@ -593,7 +593,7 @@ header .container nav .form .search {
 /* Start Status */
 .status {
   position: relative;
-  background-image: url("../assets/stats.webp");
+  background-image: url("../../../assets/stats.png");
   padding-top: 100px;
   padding-bottom: 100px;
   text-align: center;
@@ -774,7 +774,7 @@ header .container nav .form .search {
 .qoute {
   padding-top: 100px;
   padding-bottom: 100px;
-  background-image: url("../assets/quote.webp");
+  background-image: url("../../../assets/quote.jpg");
   background-size: cover;
   position: relative;
   text-align: center;
@@ -903,7 +903,7 @@ header .container nav .form .search {
 .subscribe {
   padding-top: 100px;
   padding-bottom: 100px;
-  background-image: url("../assets/subscribe.webp");
+  background-image: url("../../../assets/subscribe.jpg");
   background-size: cover;
   position: relative;
 }
@@ -1069,7 +1069,7 @@ footer {
   position: relative;
   padding-top: 50px;
   padding-bottom: 50px;
-  background-image: url("../assets/subscribe.webp");
+  background-image: url("../../../assets/subscribe.jpg");
   background-size: cover;
 }
 footer:before {
