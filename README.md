@@ -17,7 +17,7 @@ This is the second template after learning Html & CSS
 
 ### Links
 
-- Live Site: [here](https://mahmood601.github.io/kasper)
+- Live Site: [here](https://mahmood601.github.io/Kasper)
 
 ## My process 
 
